@@ -25,4 +25,11 @@ def hello():
     print("hello from github")
 ```
 
-''jerkly''
+`jerkly`
+to create a link: square brackets. them parens with actual url 
+[this is a link ](www.baidu.com)
+
+<section markdown="block">
+*this is within
+*hh
+</section> 
