@@ -1,1 +1,1 @@
-#  pratice code for jketlly
+#  pratice code for jekyll
